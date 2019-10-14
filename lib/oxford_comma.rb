@@ -1,4 +1,4 @@
 def oxford_comma(array)
 
-array.join
+new = array.join("and")
 end
